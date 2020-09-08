@@ -1,7 +1,7 @@
 # RestaurantOrder
-Application write with JAVA and MySQL <br>
-Application details are in report.pptx<br>
-Language use in app: Vietnamese
+- Application write with JAVA and MySQL <br>
+- Application details are in report.pptx<br>
+- Language use in app: Vietnamese
 # Instruction
 * Import MySQL database
 1. Executing sqlfinal.sql for database's tables 
