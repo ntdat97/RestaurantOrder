@@ -1,5 +1,5 @@
 # RestaurantOrder
-![Login](https://github.com/lopakappa/RestaurantOrder/blob/master/pic/Picture1.png?raw=true) ![](https://github.com/lopakappa/RestaurantOrder/blob/master/pic/Picture4.png?raw=true) ![](https://github.com/lopakappa/RestaurantOrder/blob/master/pic/Picture3.png?raw=true)
+![Login](https://github.com/lopakappa/RestaurantOrder/blob/master/pic/Picture1.png?raw=true) ![](https://github.com/lopakappa/RestaurantOrder/blob/master/pic/Picture4.png?raw=true) ![](https://github.com/lopakappa/RestaurantOrder/blob/master/pic/Capture1.png?raw=true) ![](https://github.com/lopakappa/RestaurantOrder/blob/master/pic/Picture6.png?raw=true)
 - Application write with JAVA and MySQL <br>
 - Application details are in report.pptx<br>
 - Language use in app: Vietnamese
