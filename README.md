@@ -1,7 +1,15 @@
 # RestaurantOrder
+
 - Application write with JAVA and MySQL <br>
 - Application details are in report.pptx<br>
 - Language use in app: Vietnamese
+- Main functional:
+  + Display available table or used table
+  + Add or remove items of orther for a table in a menu list
+  + Counting total items, total money...
+  + Difference permission (with editing options or not)
+  + Display orther's history of tables
+  ...
 # Instruction
 * Import MySQL database
 1. Executing sqlfinal.sql for database's tables 
