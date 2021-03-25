@@ -21,5 +21,5 @@
 4. Username: bos01 - Password: 999999 for boss (with editing options) and Username: nv001 - Password: 000000 for staff
 # About Author
 Name: Nguyễn Tấn Đạt.<br>
-Email: acquysoma1@gmail.com.<br>
+Email: ntdat021997@gmail.com.<br>
 This project is a homework of Database Management System subject. Requiring connect with database and use database's functions.
